@@ -9,9 +9,9 @@ int main() {
 
     
     if (num1 > num2) {
-        printf(" %d",True);
+        printf("True");
     } else {
-        printf(" %d", num1, num2);
+        printf("False");
     }
 
     return 0;
