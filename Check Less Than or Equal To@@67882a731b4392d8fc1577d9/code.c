@@ -2,7 +2,7 @@
 int main()   {
 
     int num1,num2;
-    scanf("%d %d", &a,&b);
+    scanf("%d %d", &num1,&num2);
     (num1<=num2)?printf("True"):printf("False");
       
   return 0;
