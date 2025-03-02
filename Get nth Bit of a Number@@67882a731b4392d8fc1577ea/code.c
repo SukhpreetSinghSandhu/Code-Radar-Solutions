@@ -2,7 +2,7 @@
 int main()   {
     int num,bit;
     scanf("%d %d",&num,&bit);
-    if(num &(1<<bit)){
+    if(num &(1<bit)){
         printf("1");
     }
     else{
