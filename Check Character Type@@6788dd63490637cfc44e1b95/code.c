@@ -9,7 +9,7 @@ int main(){
         printf("Vowel");
     }
     else if (( ch >='b' && ch <= 'z') && (ch != 'a' || ch !='e'||ch !='i'||ch !='o'||ch !='u')){
-        printf("Constant");
+        printf("Consonant");
     }
     else if ( d >=0 && d <= 9){
         printf("Digit");
