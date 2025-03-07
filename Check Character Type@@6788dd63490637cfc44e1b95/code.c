@@ -11,7 +11,7 @@ int main(){
     else if (( ch >='b' && ch <= 'z') && (ch != 'a' || ch !='e'||ch !='i'||ch !='o'||ch !='u')){
         printf("Consonant");
     }
-    else if ( d >=0 && d <= 9){
+    else if ( d >= 0 && d <= 9){
         printf("Digit");
     }
     else {
