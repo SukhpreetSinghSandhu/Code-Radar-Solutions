@@ -8,7 +8,7 @@ int main(){
     if ( ch == 'a'||ch == 'e'||ch == 'i'||ch == 'o'||ch == 'u'){
         printf("vowel");
     }
-    else if (( ch >=b && ch <=z) && (ch != 'a' || ch !='e'||ch !='i'||ch !='o'||ch !='u')){
+    else if (( ch >='b' && ch <= 'z') && (ch != 'a' || ch !='e'||ch !='i'||ch !='o'||ch !='u')){
         printf("constant");
     }
     else if ( d >=0 && d <= 9){
