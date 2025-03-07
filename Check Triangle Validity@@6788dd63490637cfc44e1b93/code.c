@@ -5,7 +5,7 @@ int main(){
     if (a > 0 && b > 0 && c > 0){
         printf("Valid");
     }
-    else("Not Valid")
+    else("Not Valid");
 
     return 0;
 }
