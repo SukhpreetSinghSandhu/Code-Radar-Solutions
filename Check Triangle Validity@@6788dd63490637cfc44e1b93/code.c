@@ -8,9 +8,9 @@ int main(){
     else if (b + c >a){
         printf("Valid");
     }
-    else if ( c + a > b{
+    else if ( c + a > b){
         printf("Valid");
-    })
+    }
     else("Not Valid");
 
     return 0;
