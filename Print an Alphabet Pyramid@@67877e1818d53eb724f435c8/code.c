@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main(){
     
@@ -17,7 +18,5 @@ int main(){
         printf("\n");
         a = a+2;
     }
-        return 0;
-    }
-
-    
+    return 0;
+}
