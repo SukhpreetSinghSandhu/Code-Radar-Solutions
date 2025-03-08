@@ -4,7 +4,7 @@ int main(){
     char ch;
     scanf("%d", ch);
 
-    if(ch == A){
+    if(ch == 'A'){
         printf("Excellent");
     }
     else if(ch == B){
