@@ -16,7 +16,7 @@ int ml = (n/2+1);
         }
         if(i < ml){
             nsp--;
-            nst+=2;
+            nst+=2; 
         }
         else{
             nsp++;
