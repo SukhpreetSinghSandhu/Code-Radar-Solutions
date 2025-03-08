@@ -3,18 +3,18 @@ int main(){
     
     char ch;
     scanf("%c",&ch);
-    if (n == 'R'){
+    if (ch == 'R'){
         printf("Stop");
     }
-    else if(n == 'G'){
+    else if(ch == 'G'){
         printf("Go");
     }
-    else if(n == 'Y'){
+    else if(ch == 'Y'){
         printf("Slow Down");
     }
     else {
-        printf("Invalid input")
+        printf("Invalid input");
     }
     
-    retutn 0;
+    return 0;
 }
