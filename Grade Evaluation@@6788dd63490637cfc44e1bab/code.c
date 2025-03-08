@@ -4,16 +4,16 @@ int main(){
     char ch;
     scanf("%d", ch);
 
-    if(n == A){
+    if(ch == A){
         printf("Excellent");
     }
-    else if(n == B){
+    else if(ch == B){
         printf("Good");
     }
-    else if(n == C){
+    else if(ch == C){
         printf("Average");
     }
-    else if(n == D){
+    else if(ch == D){
         printf("Below Average");
     }
     else if(n == F){
