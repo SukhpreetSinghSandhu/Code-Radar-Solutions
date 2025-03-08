@@ -3,7 +3,7 @@ int main(){
     
     int n;
     int product = 1;
-    for(int i = 1;i<=n;i++){
+    for(int i = 1;i<=10;i++){
         product = product * i;
     }
     printf("%d",product);
