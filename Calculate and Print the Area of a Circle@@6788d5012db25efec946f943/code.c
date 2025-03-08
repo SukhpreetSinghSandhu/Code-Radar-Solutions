@@ -2,7 +2,7 @@
 
 int main() {
     float radius, area;
-    const float PI = 3.14159;  
+    const float PI = 3.14;  
 
     scanf("%f", &radius);
 
@@ -10,7 +10,7 @@ int main() {
     area = PI * radius * radius;
 
     
-    printf("Area: %f\n", area);
+    printf("Area: %.2f\n", area);
 
     return 0;
 }
