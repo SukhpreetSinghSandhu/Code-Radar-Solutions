@@ -13,7 +13,7 @@ int main(){
             int d = 1 + 64;
             char ch = (char)d;
             printf("%c ",ch);
-         } a = a + 2;
+         } a = a + 1;
             
         
         printf("\n");
