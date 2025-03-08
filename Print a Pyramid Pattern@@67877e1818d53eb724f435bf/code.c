@@ -10,9 +10,8 @@ int main(){
         }
         for(int j = 1;j<=a;j++){
             printf("* ");
-            a = a + 2;
-            
-        }
+        } 
+        a = a + 2;
         printf("\n");
     }
     
