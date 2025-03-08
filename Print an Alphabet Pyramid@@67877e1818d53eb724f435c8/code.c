@@ -13,10 +13,9 @@ int main(){
             int d = 1 + 64;
             char ch = (char)d;
             printf("%c ",ch);
-         } a = a + 1;
-            
-        
+         } 
         printf("\n");
+        a = a+2;
     }
         return 0;
     }
