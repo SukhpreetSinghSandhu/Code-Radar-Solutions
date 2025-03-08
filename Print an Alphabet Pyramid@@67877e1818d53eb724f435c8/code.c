@@ -12,8 +12,8 @@ int main(){
         for(int j = 1;j<=a;j++){
             int d = 1 + 64;
             char ch = (char)d;
-            printf("%c",ch);
-         } a = a +1;
+            printf("%c ",ch);
+         } a = a + 2;
             
         
         printf("\n");
